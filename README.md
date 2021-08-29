@@ -1,6 +1,9 @@
 # TicTacToe
 A tic tac toe game for the browser using html, css, javascript
 
-created the shapes and grid using css and the logic of the game using javascript. 
+The shapes and the grid are created using CSS. 
+The logic of the game is done using javascript. 
+
+[live demo](https://github.com/areksoulahian/TicTacToe/blob/main/index.html)
 
 
